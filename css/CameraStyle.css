@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+#video-div {
+    width: 21rem;
+    height: 20rem;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+#video-divv {
+    width: 15rem;
+    height: 15rem;
+    border-radius: 0.5rem;
+    /* display: none; */
+}
+#canvas-div {
+    width: 15rem;
+    display: flex;
+    flex-wrap: wrap;
+    display: none;
+}
+button{
+    height: 2.5rem;
+    width: 7rem;
+    margin: 1rem;
+    color: aqua;
+    background-color: blue;
+    border-radius: 0.8rem;
+    margin-left: 17px;
+}
+#picture-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 10rem;
+    width: 10rem;
+}
+#topmost-vid{
+ margin-top: -3px;
+ height: 225px;
+ width: 330px;
+ border-radius: 5px;
+}
+#url-form{
+    display: none;
+}
