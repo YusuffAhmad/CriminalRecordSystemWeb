@@ -28,4 +28,4 @@ Before installing the application, ensure that your system meets the following r
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/criminal-record-system.git
+   git clone https://github.com/YusuffAhmad/CriminalRecordSystemWeb.git
